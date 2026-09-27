@@ -1,0 +1,4 @@
+Contact: mailto:gerardo.lemos@institutolamerced.edu.ar
+Expires: 2027-09-27T00:00:00Z
+Preferred-Languages: es
+Canonical: https://web95.vercel.app/.well-known/security.txt

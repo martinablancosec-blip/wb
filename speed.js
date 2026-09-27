@@ -1,0 +1,1 @@
+(function(){'use strict';document.querySelectorAll('a[href]').forEach(function(a){a.addEventListener('click',function(){var n=a.getAttribute('href');if(window.plausible&&n){if(n.indexOf('Contacto')>-1)plausible('Contacto');if(n.indexOf('Inscripciones')>-1)plausible('Inscripciones');if(n.indexOf('Proyectos')>-1)plausible('Proyectos');}})})})();
